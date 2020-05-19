@@ -1,5 +1,4 @@
 
-/*adding comments*/
 
 package day2;
 
